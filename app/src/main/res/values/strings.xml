@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Countries details</string>
+    <string name="downloading_data_please_wait">Fetching countries data, please wait</string>
+    <string name="flag_of_the_country">Flag of the country</string>
+    <string name="title_activity_extra_details">ExtraDetails</string>
+    <string name="back">Back</string>
+    <string name="country_name_tag">"Name: "</string>
+    <string name="region_tag">"Region: "</string>
+    <string name="subRegion_tag">"Subregion: "</string>
+    <string name="languages_tag">"Languages: "</string>
+    <string name="capital_tag">"Capital: "</string>
+    <string name="population_tag">"Population: "</string>
+    <string name="empty_list">Nothing to display, please connect to internet</string>
+</resources>
