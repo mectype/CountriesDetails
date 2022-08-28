@@ -6,4 +6,4 @@ Data resides in the following address: https://restcountries.com/v3.1/all
 
 The objective is to show short info about every country, and upon click, show additional data about that country.
 
-Furthermore, I implemented a "last country" save mecahnisem, to display the last clicked country, in case of no internet connection.
+Furthermore, I implemented a "last country" save mechanism, to display the last clicked country, in case of no internet connection.
